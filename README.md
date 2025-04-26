@@ -1,4 +1,6 @@
 # EX 2 : Bresenham‘s Line Drawing Algorithm
+### NAME: U MAGESHKUMAR
+### REG NO:212224240085
 
 **AIM :**
 
